@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://codepen.io/justinsalcedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="justinsalcedo" height="30" width="40" /></a>
 <a href="https://twitter.com/imjustinsalcedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imjustinsalcedo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/justin-salcedo-370a9b158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justin-salcedo-370a9b158" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/justin-salcedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justin-salcedo" height="30" width="40" /></a>
 <a href="https://dribbble.com/justinsalcedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="justinsalcedo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/justinsalcedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justinsalcedo" height="30" width="40" /></a>
 </p>
