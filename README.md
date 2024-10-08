@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/imjustinsalcedo" target="blank"><img src="https://img.shields.io/twitter/follow/imjustinsalcedo?logo=twitter&style=for-the-badge" alt="imjustinsalcedo" /></a> </p>
 
-- 🔭 I’m currently working on [the Job Gatherer](https://github.com/JustinSalcedo/jg-ui)
+- 🔭 I’m currently working on [Libellus.io](https://libellus.io)
 
-- 🌱 I’m currently learning **React Native, Web Assembly**
+- 🌱 I’m currently learning **Parallel programming, Web Assembly**
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 👨‍💻 All of my projects are available at [https://justinsalcedo.com/#portfolio](https://justinsalcedo.com/#portfolio)
+- 👨‍💻 All my projects are available at [https://justinsalcedo.com/portfolio.html](https://justinsalcedo.com/portfolio.html)
 
 - 💬 Ask me about **ReactJS, NodeJS**
 
 - 📫 How to reach me **web@justinsalcedo.com**
 
-- 📄 Know about my experiences [https://justinsalcedo.com](https://justinsalcedo.com)
+- 📄 Know about my experiences [https://justinsalcedo.com#experience](https://justinsalcedo.com#experience)
 
-- ⚡ Fun fact **I have bad luck with hapiness, but I'm resilient.**
+- ⚡ Fun fact **I have bad luck with happiness but am resilient.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
